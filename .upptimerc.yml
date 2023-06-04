@@ -7,10 +7,6 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  # - name: Hacker News
-  #   url: https://news.ycombinator.com
-  # - name: Test Broken Site
-  #   url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -30,8 +26,8 @@ status-website:
   # favicon: https://example.com/favicon.png
   # faviconSvg: https://example.com/logo.svg
 
-# i18n:
-#   footer:
+i18n:
+  footer:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
