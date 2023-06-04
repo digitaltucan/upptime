@@ -35,7 +35,7 @@ status-website:
   # faviconSvg: https://example.com/logo.svg
 
 i18n:
-  footer: .
+  footer: digitaltucan
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
