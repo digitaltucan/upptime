@@ -52,5 +52,23 @@
     "timeMonth": 155,
     "timeYear": 155,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "https",
+    "url": "159.69.62.61",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "https",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 94,
+    "timeDay": 94,
+    "timeWeek": 94,
+    "timeMonth": 94,
+    "timeYear": 94,
+    "dailyMinutesDown": {}
   }
 ]
