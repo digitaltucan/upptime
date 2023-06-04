@@ -34,8 +34,8 @@ status-website:
   # favicon: https://example.com/favicon.png
   # faviconSvg: https://example.com/logo.svg
 
-i18n:
-  footer:
+# i18n:
+#   footer:
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
