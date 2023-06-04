@@ -15,13 +15,17 @@ sites:
     check: "tcp-ping"
     url: 85.10.204.170
     port: 22
+  - name: https
+    check: "tcp-ping"
+    url: 159.69.62.61
+    port: 443
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.digitaltucan.de
   # baseUrl: /your-repo-name
-  logoUrl: https://$CNAME/logo.svg
+  logoUrl: https://status.digitaltucan.de/logo.svg
   name: Status
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
@@ -31,12 +35,13 @@ status-website:
     # - title: GitHub
     #   href: https://github.com/$OWNER/$REPO
   
-  # favicon: https://example.com/favicon.png
-  # faviconSvg: https://example.com/logo.svg
-  themeUrl: https://$CNAME/custom.css
+  favicon: https://status.digitaltucan.de/favicon.png
+  faviconSvg: https://status.digitaltucan.de/favicon.svg
+  themeUrl: https://status.digitaltucan.de/custom.css
 
 i18n:
-  footer: "[digitaltucan](https://digitaltucan.de)"
+  # footer: "[digitaltucan](https://digitaltucan.de)"
+  footer: ""
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
