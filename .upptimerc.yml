@@ -3,10 +3,19 @@ owner: digitaltucan # Your GitHub organization or username, where this repositor
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
+
+  - name: host
+    check: "tcp-ping"
+    url: 159.69.62.61
+    port: 22
+  - name: ion
+    check: "tcp-ping"
+    url: 78.46.49.26
+    port: 22
+  - name: nexus
+    check: "tcp-ping"
+    url: 85.10.204.170
+    port: 22
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
