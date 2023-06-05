@@ -1,13 +1,14 @@
 # Change these first
 owner: digitaltucan # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+user-agent: digitaltucan # your-github-username
 
 sites:
   - name: host
     check: "tcp-ping"
     url: 159.69.62.61
     port: 22
-    icon: https://www.google.com/favicon.ico
+    icon: ""
   - name: ion
     check: "tcp-ping"
     url: 78.46.49.26
@@ -29,7 +30,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.digitaltucan.de
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/logo.svg
+  logoUrl: https://status.digitaltucan.de/logo.svg
   name: ""
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
@@ -39,9 +40,9 @@ status-website:
     # - title: GitHub
     #   href: https://github.com/$OWNER/$REPO
   
-  favicon: https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/favicon.png
-  faviconSvg: https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/favicon.svg
-  themeUrl: https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/custom.css
+  favicon: https://status.digitaltucan.de/favicon.png
+  faviconSvg: https://status.digitaltucan.de/favicon.svg
+  themeUrl: https://status.digitaltucan.de/custom.css
 
 i18n:
   # footer: "[digitaltucan](https://digitaltucan.de)"
