@@ -7,22 +7,22 @@ sites:
     check: "tcp-ping"
     url: 159.69.62.61
     port: 22
-    icon:
+    icon: ""
   - name: ion
     check: "tcp-ping"
     url: 78.46.49.26
     port: 22
-    icon:
+    icon: ""
   - name: nexus
     check: "tcp-ping"
     url: 85.10.204.170
     port: 22
-    icon:
+    icon: ""
   - name: https
     check: "tcp-ping"
     url: 159.69.62.61
     port: 443
-    icon:
+    icon: ""
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -30,7 +30,7 @@ status-website:
   cname: status.digitaltucan.de
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/logo.svg
-  name: Status
+  name: ""
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   # navbar:
