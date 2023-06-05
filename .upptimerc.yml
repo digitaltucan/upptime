@@ -30,7 +30,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.digitaltucan.de
-  baseUrl: /upptime
+  # baseUrl: /upptime
   logoUrl: https://status.digitaltucan.de/logo.svg
   name: "Status - digitaltucán"
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
