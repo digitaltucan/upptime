@@ -7,18 +7,22 @@ sites:
     check: "tcp-ping"
     url: 159.69.62.61
     port: 22
+    icon:
   - name: ion
     check: "tcp-ping"
     url: 78.46.49.26
     port: 22
+    icon:
   - name: nexus
     check: "tcp-ping"
     url: 85.10.204.170
     port: 22
+    icon:
   - name: https
     check: "tcp-ping"
     url: 159.69.62.61
     port: 443
+    icon:
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
