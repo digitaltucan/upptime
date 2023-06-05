@@ -32,7 +32,7 @@ status-website:
   cname: status.digitaltucan.de
   # baseUrl: /your-repo-name
   logoUrl: https://status.digitaltucan.de/logo.svg
-  name: ""s
+  name: ""
   metaTags:
     - name: "title"
       content: "Status - digitaltucán"
