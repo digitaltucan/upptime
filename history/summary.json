@@ -70,5 +70,23 @@
     "timeMonth": 112,
     "timeYear": 112,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "smtps",
+    "url": "159.69.62.61",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "smtps",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 125,
+    "timeDay": 125,
+    "timeWeek": 125,
+    "timeMonth": 125,
+    "timeYear": 125,
+    "dailyMinutesDown": {}
   }
 ]
