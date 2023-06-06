@@ -54,11 +54,11 @@ status-website:
   css: "
   
   :root {
-    --body-background-color: #dbdbdb;
+    --body-background-color: #f9f9f9;
     --body-text-color: #002626;
     --card-background-color: #ffffff;
-    --nav-background-color: #dbdbdb;
-    --nav-border-bottom-color: #dbdbdb;
+    --nav-background-color: #f9f9f9;
+    --nav-border-bottom-color: #f9f9f9;
     --nav-current-border-bottom-color: #1abc9c;
     --card-border-color: #d8e8e4;
     --down-border-left-color: #eb3b5a;
@@ -78,6 +78,10 @@ status-website:
     --submit-button-color: #ffffff;
     --graph-opacity: 1;
     --graph-filter: none;
+  }
+
+  .logo {
+    margin-top: 2rem;
   }
   
   
