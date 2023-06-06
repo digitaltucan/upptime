@@ -25,6 +25,12 @@ sites:
     url: 159.69.62.61
     port: 443
     icon: ""
+  - name: smtps
+    check: "tcp-ping"
+    url: 159.69.62.61
+    port: 465
+    icon: ""
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
