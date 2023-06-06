@@ -37,7 +37,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.digitaltucan.de
   # baseUrl: /upptime
-  logoUrl: https://status.digitaltucan.de/logo.svg
+  logoUrl: https://status.digitaltucan.de/assets/logo.svg
   name: "Status - digitaltucán"
   # introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
@@ -47,9 +47,9 @@ status-website:
     # - title: GitHub
     #   href: https://github.com/$OWNER/$REPO
   
-  favicon: https://status.digitaltucan.de/favicon.png
-  faviconSvg: https://status.digitaltucan.de/favicon.svg
-  themeUrl: https://status.digitaltucan.de/custom.css
+  favicon: https://status.digitaltucan.de/assets/favicon.png
+  faviconSvg: https://status.digitaltucan.de/assets/favicon.svg
+  themeUrl: https://status.digitaltucan.de/assets/custom.css
 
 i18n:
   # footer: "[digitaltucan](https://digitaltucan.de)"
