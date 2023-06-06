@@ -50,6 +50,8 @@ status-website:
   favicon: https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/favicon.png
   faviconSvg: https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/favicon.svg
   # themeUrl: https://status.digitaltucan.de/assets/custom.css
+  theme: light
+  css: ""
 
 i18n:
   # footer: "[digitaltucan](https://digitaltucan.de)"
