@@ -15,6 +15,11 @@ sites:
     url: 159.69.62.61
     port: 443
     icon: ""
+  - name: db
+    check: "tcp-ping"
+    url: 159.69.62.61
+    port: 3306
+    icon: ""
   - name: smtps
     check: "tcp-ping"
     url: 159.69.62.61
