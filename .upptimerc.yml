@@ -5,22 +5,12 @@ repo: upptime # The name of this repository
 user-agent: digitaltucan # your-github-username
 
 sites:
-  - name: host
+  - name: sftp
     check: "tcp-ping"
     url: 159.69.62.61
-    port: 22
+    port: 2221
     icon: ""
-  - name: ion
-    check: "tcp-ping"
-    url: 78.46.49.26
-    port: 22
-    icon: ""
-  - name: nexus
-    check: "tcp-ping"
-    url: 85.10.204.170
-    port: 22
-    icon: ""
-  - name: https
+  - name: web
     check: "tcp-ping"
     url: 159.69.62.61
     port: 443
@@ -29,6 +19,31 @@ sites:
     check: "tcp-ping"
     url: 159.69.62.61
     port: 465
+    icon: ""
+  - name: submission
+    check: "tcp-ping"
+    url: 159.69.62.61
+    port: 587
+    icon: ""
+  - name: imaps
+    check: "tcp-ping"
+    url: 159.69.62.61
+    port: 993
+    icon: ""
+  - name: pop3s
+    check: "tcp-ping"
+    url: 159.69.62.61
+    port: 455965
+    icon: ""
+  - name: webmail
+    check: "tcp-ping"
+    url: 159.69.62.61
+    port: 443
+    icon: ""
+  - name: dns
+    check: "tcp-ping"
+    url: lina.ns.cloudflare.com
+    port: 53
     icon: ""
     
 
