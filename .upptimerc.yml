@@ -33,7 +33,7 @@ sites:
   - name: pop3s
     check: "tcp-ping"
     url: 159.69.62.61
-    port: 455965
+    port: 995
     icon: ""
   - name: webmail
     check: "tcp-ping"
@@ -45,6 +45,12 @@ sites:
     url: lina.ns.cloudflare.com
     port: 53
     icon: ""
+  - name: backup
+    check: "tcp-ping"
+    url: u285001.your-storagebox.de
+    port: 22
+    icon: "" 
+
     
 
 status-website:
