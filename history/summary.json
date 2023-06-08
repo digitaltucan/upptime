@@ -106,7 +106,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-06-08": 4
+      "2023-06-08": 15
     }
   },
   {
@@ -143,6 +143,24 @@
     "timeWeek": 9,
     "timeMonth": 9,
     "timeYear": 9,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "backup",
+    "url": "u285001.your-storagebox.de",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "backup",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 205,
+    "timeDay": 205,
+    "timeWeek": 205,
+    "timeMonth": 205,
+    "timeYear": 205,
     "dailyMinutesDown": {}
   }
 ]
