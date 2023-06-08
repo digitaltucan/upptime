@@ -36,6 +36,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "db",
+    "url": "159.69.62.61",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "db",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 115,
+    "timeDay": 115,
+    "timeWeek": 115,
+    "timeMonth": 115,
+    "timeYear": 115,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "smtps",
     "url": "159.69.62.61",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
@@ -88,26 +106,6 @@
     "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "pop3s",
-    "url": "159.69.62.61",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "pop3s",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2023-06-08": 15
-    }
   },
   {
     "name": "webmail",
