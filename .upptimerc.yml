@@ -9,47 +9,47 @@ sites:
     check: "tcp-ping"
     url: $SERVER_IP_1
     port: 2221
-    icon: "https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/server-connection.svg"
+    icon: https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/server-connection.svg
   - name: web
     check: "tcp-ping"
     url: $SERVER_IP_1
     port: 443
-    icon: "https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/server-connection.svg"
+    icon: https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/server-connection.svg
   - name: db
     check: "tcp-ping"
     url: $SERVER_IP_1
     port: 3306
-    icon: "https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/server-connection.svg"
+    icon: https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/server-connection.svg
   - name: smtps
     check: "tcp-ping"
     url: $SERVER_IP_1
     port: 465
-    icon: "https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/server-connection.svg"
+    icon: https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/server-connection.svg
   - name: submission
     check: "tcp-ping"
     url: $SERVER_IP_1
     port: 587
-    icon: "https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/server-connection.svg"
+    icon: https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/server-connection.svg
   - name: imaps
     check: "tcp-ping"
     url: $SERVER_IP_1
     port: 993
-    icon: "https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/server-connection.svg"
+    icon: https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/server-connection.svg
   - name: webmail
     check: "tcp-ping"
     url: $SERVER_IP_1
     port: 443
-    icon: "https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/server-connection.svg"
+    icon: https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/server-connection.svg
   - name: dns
     check: "tcp-ping"
     url: lina.ns.cloudflare.com
     port: 53
-    icon: "https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/server-connection.svg"
+    icon: https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/server-connection.svg
   - name: backup
     check: "tcp-ping"
     url: u285001.your-storagebox.de
     port: 22
-    icon: "https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/server-connection.svg" 
+    icon: https://raw.githubusercontent.com/digitaltucan/upptime/master/assets/server-connection.svg
 
     
 
