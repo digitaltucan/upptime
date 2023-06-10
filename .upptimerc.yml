@@ -118,6 +118,7 @@ status-website:
 
   form.f {
     justify-content: flex-end;
+    width: 100%;
   }
 
   article + article {
