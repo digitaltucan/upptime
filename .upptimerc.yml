@@ -115,6 +115,11 @@ status-website:
     display: none;
   }
   
+
+  .f {
+    justify-content: flex-end;
+  }
+
   article+article {
     margin: 0;
   }
