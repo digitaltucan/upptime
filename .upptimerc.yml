@@ -111,23 +111,23 @@ status-website:
     background-color: transparent;
   }
 
-  img.icon, header+article.up, .f h2 {
+  img.icon, header + article.up, .f h2 {
     display: none;
   }
   
 
-  form .f {
+  h2 + form .f {
     justify-content: flex-end;
   }
 
-  article+article {
+  article + article {
     margin: 0;
   }
 
   .graph {
     background-blend-mode: luminosity;
     background-color: #f9f9f9;
-    background-position-y: 1rem;
+    background-position-y: 1rem !important;
   }
   
 
