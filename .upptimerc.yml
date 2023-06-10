@@ -116,7 +116,7 @@ status-website:
   }
   
 
-  h2 + form .f {
+  form.f {
     justify-content: flex-end;
   }
 
