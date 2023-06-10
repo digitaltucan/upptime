@@ -67,7 +67,7 @@ status-website:
   
   :root {
     --body-background-color: #f9f9f9;
-    --body-text-color: #002626;
+    --body-text-color: #000;
     --card-background-color: #ffffff;
     --nav-background-color: #f9f9f9;
     --nav-border-bottom-color: #f9f9f9;
@@ -111,7 +111,7 @@ status-website:
     background-color: transparent;
   }
 
-  img.icon, header+article.up, .f .h2 {
+  img.icon, header+article.up, .f h2 {
     display: none;
   }
   
