@@ -72,7 +72,7 @@ status-website:
     --nav-background-color: #f9f9f9;
     --nav-border-bottom-color: #f9f9f9;
     --nav-current-border-bottom-color: #1abc9c;
-    --card-border-color: #d8e8e4;
+    --card-border-color: #fff;
     --down-border-left-color: #eb3b5a;
     --down-background-color: #ffd0d2;
     --degraded-border-left-color: #f7b731;
@@ -102,6 +102,7 @@ status-website:
   
   article {
     border-radius: 0;
+    border: 0;
     padding: 2rem;
   }
 
@@ -109,6 +110,13 @@ status-website:
     display: none;
   }
   
+  article+article {
+    margin: 0;
+  }
+
+
+  
+
   
   "
 
