@@ -110,7 +110,7 @@ status-website:
     padding: 2rem;
   }
 
-  img.icon, article.up {
+  img.icon, header+article.up {
     display: none;
   }
   
