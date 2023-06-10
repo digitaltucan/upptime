@@ -95,13 +95,17 @@ status-website:
   .logo {
     margin-top: 2rem;
   }
+
+  nav {
+    margin-bottom: 4rem;
+  }
   
   article {
     border-radius: 0;
     padding: 2rem;
   }
 
-  img.icon {
+  img.icon, article.up {
     display: none;
   }
   
