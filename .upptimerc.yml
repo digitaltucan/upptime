@@ -99,6 +99,10 @@ status-website:
   nav {
     margin-bottom: 4rem;
   }
+
+  .live-status {
+    box-shadow: -80px 80px 80px 0px rgba(35,44,79,.05);
+  }
   
   article {
     border-radius: 0;
