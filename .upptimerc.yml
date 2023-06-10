@@ -131,6 +131,9 @@ status-website:
     background-color: #f9f9f9;
     background-position-y: 1rem !important;
   }
+  canvas {
+    filter: grayscale(1);
+  }
   
 
   
