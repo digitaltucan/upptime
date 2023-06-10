@@ -76,9 +76,9 @@ status-website:
     --down-border-left-color: #eb3b5a;
     --down-background-color: #ffd0d2;
     --degraded-border-left-color: #f7b731;
-    --up-border-left-color: #20bf6b;
+    --up-border-left-color: #45ffbc;
     --tag-color: #ffffff;
-    --tag-up-background-color: #20bf6b;
+    --tag-up-background-color: #45ffbc;
     --tag-down-background-color: #eb3b5a;
     --tag-degraded-background-color: #f7b731;
     --change-background-color: #f7b731;
@@ -96,7 +96,7 @@ status-website:
     margin-top: 2rem;
   }
 
-  nav {
+  #sapper nav {
     margin-bottom: 4rem;
   }
 
@@ -108,9 +108,10 @@ status-website:
     border-radius: 0;
     border: 0;
     padding: 2rem;
+    background-color: transparent;
   }
 
-  img.icon, header+article.up {
+  img.icon, header+article.up, .f .h2 {
     display: none;
   }
   
