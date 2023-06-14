@@ -35,11 +35,11 @@ sites:
     port: 443
   - name: dns
     check: "tcp-ping"
-    url: lina.ns.cloudflare.com
+    url: $DNS_IP_1
     port: 53
   - name: backup
     check: "tcp-ping"
-    url: u285001.your-storagebox.de
+    url: $BACKUP_IP_1
     port: 22
 
     
