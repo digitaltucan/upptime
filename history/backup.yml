@@ -1,7 +1,7 @@
-url: u285001.your-storagebox.de
+url: $BACKUP_IP_1
 status: up
 code: 200
-responseTime: 137
-lastUpdated: 2023-06-13T23:18:05.041Z
+responseTime: 172
+lastUpdated: 2023-06-18T23:21:07.369Z
 startTime: Thu Jun 08 2023 11:49:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
