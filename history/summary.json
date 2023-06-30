@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 104,
     "timeDay": 95,
-    "timeWeek": 98,
+    "timeWeek": 97,
     "timeMonth": 104,
     "timeYear": 104,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 94,
-    "timeWeek": 97,
+    "timeDay": 96,
+    "timeWeek": 96,
     "timeMonth": 103,
     "timeYear": 103,
     "dailyMinutesDown": {}
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 103,
-    "timeDay": 95,
+    "time": 102,
+    "timeDay": 94,
     "timeWeek": 97,
-    "timeMonth": 103,
-    "timeYear": 103,
+    "timeMonth": 102,
+    "timeYear": 102,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 95,
-    "timeWeek": 131,
-    "timeMonth": 114,
-    "timeYear": 114,
+    "time": 113,
+    "timeDay": 94,
+    "timeWeek": 126,
+    "timeMonth": 113,
+    "timeYear": 113,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 104,
+    "time": 103,
     "timeDay": 94,
     "timeWeek": 97,
-    "timeMonth": 104,
-    "timeYear": 104,
+    "timeMonth": 103,
+    "timeYear": 103,
     "dailyMinutesDown": {}
   },
   {
@@ -137,8 +137,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 8,
-    "timeDay": 7,
-    "timeWeek": 6,
+    "timeDay": 9,
+    "timeWeek": 7,
     "timeMonth": 8,
     "timeYear": 8,
     "dailyMinutesDown": {}
@@ -154,11 +154,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 152,
-    "timeDay": 172,
-    "timeWeek": 147,
-    "timeMonth": 152,
-    "timeYear": 152,
+    "time": 150,
+    "timeDay": 119,
+    "timeWeek": 143,
+    "timeMonth": 150,
+    "timeYear": 150,
     "dailyMinutesDown": {}
   }
 ]
