@@ -58,9 +58,9 @@
     "url": "$SERVER_IP_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtps",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,16 +69,18 @@
     "timeWeek": 120,
     "timeMonth": 115,
     "timeYear": 113,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-14": 0
+    }
   },
   {
     "name": "submission",
     "url": "$SERVER_IP_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "submission",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,16 +89,18 @@
     "timeWeek": 120,
     "timeMonth": 108,
     "timeYear": 108,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-07-14": 0
+    }
   },
   {
     "name": "imaps",
     "url": "$SERVER_IP_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "imaps",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.89%",
     "uptimeMonth": "99.98%",
     "uptimeYear": "99.98%",
@@ -106,6 +110,7 @@
     "timeMonth": 107,
     "timeYear": 107,
     "dailyMinutesDown": {
+      "2023-07-14": 0,
       "2023-07-11": 11
     }
   },
