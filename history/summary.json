@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 91,
+    "time": 106,
+    "timeDay": 90,
     "timeWeek": 97,
     "timeMonth": 109,
-    "timeYear": 107,
+    "timeYear": 106,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 91,
-    "timeWeek": 97,
+    "time": 106,
+    "timeDay": 92,
+    "timeWeek": 98,
     "timeMonth": 109,
-    "timeYear": 107,
+    "timeYear": 106,
     "dailyMinutesDown": {}
   },
   {
@@ -59,16 +59,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "smtps",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
-    "time": 111,
+    "uptimeYear": "99.98%",
+    "time": 110,
     "timeDay": 91,
     "timeWeek": 97,
     "timeMonth": 109,
-    "timeYear": 111,
+    "timeYear": 110,
     "dailyMinutesDown": {
       "2023-07-14": 20
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 107,
-    "timeDay": 91,
+    "time": 106,
+    "timeDay": 90,
     "timeWeek": 97,
     "timeMonth": 109,
-    "timeYear": 107,
+    "timeYear": 106,
     "dailyMinutesDown": {
       "2023-07-14": 20
     }
@@ -105,7 +105,7 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
     "time": 106,
-    "timeDay": 91,
+    "timeDay": 90,
     "timeWeek": 97,
     "timeMonth": 108,
     "timeYear": 106,
@@ -125,11 +125,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 107,
-    "timeDay": 91,
+    "time": 106,
+    "timeDay": 90,
     "timeWeek": 97,
     "timeMonth": 109,
-    "timeYear": 107,
+    "timeYear": 106,
     "dailyMinutesDown": {}
   },
   {
@@ -144,9 +144,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 8,
-    "timeDay": 4,
+    "timeDay": 2,
     "timeWeek": 7,
-    "timeMonth": 8,
+    "timeMonth": 7,
     "timeYear": 8,
     "dailyMinutesDown": {}
   },
@@ -162,9 +162,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 129,
+    "timeDay": 124,
     "timeWeek": 134,
-    "timeMonth": 165,
+    "timeMonth": 160,
     "timeYear": 159,
     "dailyMinutesDown": {}
   }
