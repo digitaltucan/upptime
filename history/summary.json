@@ -163,19 +163,19 @@
     "url": "$BACKUP_IP_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "backup",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 181,
-    "timeDay": 468,
-    "timeWeek": 215,
-    "timeMonth": 208,
+    "timeDay": 300,
+    "timeWeek": 205,
+    "timeMonth": 206,
     "timeYear": 181,
     "dailyMinutesDown": {
-      "2023-10-17": 0
+      "2023-10-17": 9
     }
   }
 ]
