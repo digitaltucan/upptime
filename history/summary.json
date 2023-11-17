@@ -4,11 +4,11 @@
     "url": "$SERVER_IP_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "sftp",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.77%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.18%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 115,
     "timeDay": 110,
@@ -16,7 +16,7 @@
     "timeMonth": 118,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-11-17": 3,
+      "2023-11-17": 12,
       "2023-10-17": 10
     }
   },
@@ -25,19 +25,19 @@
     "url": "$SERVER_IP_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "web",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.86%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 115,
     "timeDay": 110,
-    "timeWeek": 115,
+    "timeWeek": 114,
     "timeMonth": 119,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-11-17": 2
+      "2023-11-17": 11
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "$SERVER_IP_1",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "db",
-    "status": "down",
+    "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "82.65%",
-    "uptimeWeek": "97.52%",
-    "uptimeMonth": "99.43%",
+    "uptimeDay": "82.06%",
+    "uptimeWeek": "97.44%",
+    "uptimeMonth": "99.41%",
     "uptimeYear": "99.89%",
     "time": 115,
-    "timeDay": 0,
-    "timeWeek": 116,
+    "timeDay": 110,
+    "timeWeek": 115,
     "timeMonth": 119,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2023-11-17": 197,
+      "2023-11-17": 206,
       "2023-11-16": 53
     }
   },
